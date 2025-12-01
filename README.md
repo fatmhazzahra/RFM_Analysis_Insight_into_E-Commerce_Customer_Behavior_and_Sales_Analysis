@@ -85,9 +85,13 @@ Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pa
 
 ## **Publication**
 [LinkedIn Fatimah Azzahra](https://www.linkedin.com/in/fatimahazzahrafaza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 [LinkedIn Gabriella Davintia](https://www.linkedin.com/in/gabriella-davintia-45a8082a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 [Tableau Public](https://public.tableau.com/views/RFM_Analysis_Tableau/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [PPT Canva](https://www.canva.com/design/DAG5z0-YY1k/jfo1yC2-FWUhF9_psYRMHA/edit?utm_content=DAG5z0-YY1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
