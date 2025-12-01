@@ -30,6 +30,15 @@ RFM-Portfolio-Modul-2/
 - RFM_Analysis_Tableau.twbx                                                                            # Tableau Dashboard
 - README.md                                                                               # This file
 
+```
+python-learning-app/
+├── main.py                    # Main program entry point
+├── casestudy_database.py      # Case study database and exercises
+├── knowledge_database.py      # Theory content and syllabus
+├── quiz_database.py           # Quiz questions and assessment engine
+└── README.md                  # This file
+```
+
 ##  **Deskripsi Dataset**
 Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pada sebuah platform e-commerce. Dataset telah melalui pemeriksaan kualitas data dan dinyatakan:
 
@@ -81,5 +90,6 @@ Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pa
 - Menghasilkan insight untuk meningkatkan retensi pelanggan, loyalitas, dan efisiensi pemasaran.
 
 - Memberikan rekomendasi strategis untuk setiap segmen pelanggan.
+
 
 
