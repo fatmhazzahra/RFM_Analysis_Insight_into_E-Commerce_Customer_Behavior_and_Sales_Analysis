@@ -22,13 +22,13 @@ Stakeholders: Marketing Department of E-Commerce Company in Turkey
 
 ## **Project Structure**
 RFM-Portfolio-Modul-2/
-├── main.py                                                                                 # Main program entry point
-├── ecommerce_customer_behavior_dataset_v2.csv                                              # Raw Dataset
-├── E-Commerce_Customer_Behavior_Analysis_Cleaned.xlsx                                      # Cleaned Data
-├── E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
-├── RFM Analysis: Insights into E-Commerce Customer Behavior & Sales Analysis.pdf           # Powerpoint Slides
-├── tableau.twbx                                                                            # Tableau Dashboard
-└── README.md                                                                               # This file
+- main.py                                                                                 # Main program entry point
+- ecommerce_customer_behavior_dataset_v2.csv                                              # Raw Dataset
+- E-Commerce_Customer_Behavior_Analysis_Cleaned.xlsx                                      # Cleaned Data
+- E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
+- RFM Analysis: Insights into E-Commerce Customer Behavior & Sales Analysis.pdf           # Powerpoint Slides
+- tableau.twbx                                                                            # Tableau Dashboard
+- README.md                                                                               # This file
 
 ##  **Deskripsi Dataset**
 Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pada sebuah platform e-commerce. Dataset telah melalui pemeriksaan kualitas data dan dinyatakan:
@@ -81,3 +81,4 @@ Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pa
 - Menghasilkan insight untuk meningkatkan retensi pelanggan, loyalitas, dan efisiensi pemasaran.
 
 - Memberikan rekomendasi strategis untuk setiap segmen pelanggan.
+
