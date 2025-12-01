@@ -21,22 +21,15 @@ Perusahaan e-commerce sering menghadapi kesulitan dalam memahami perbedaan peril
 Stakeholders: Marketing Department of E-Commerce Company in Turkey
 
 ## **Project Structure**
-RFM-Portfolio-Modul-2/
-- RFM_Analysis.ipynb                                                                                 # Main program entry point
-- ecommerce_customer_behavior_dataset_v2.csv                                              # Raw Dataset
-- E-Commerce_Customer_Behavior_Analysis_Cleaned.xlsx                                      # Cleaned Data
-- E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
-- RFM Analysis: Insights into E-Commerce Customer Behavior & Sales Analysis.pdf           # Powerpoint Slides
-- RFM_Analysis_Tableau.twbx                                                                            # Tableau Dashboard
-- README.md                                                                               # This file
-
 ```
-python-learning-app/
-├── main.py                    # Main program entry point
-├── casestudy_database.py      # Case study database and exercises
-├── knowledge_database.py      # Theory content and syllabus
-├── quiz_database.py           # Quiz questions and assessment engine
-└── README.md                  # This file
+RFM-Portfolio-Modul-2/
+├── RFM_Analysis.ipynb                                                                      # Main program entry point
+├── ecommerce_customer_behavior_dataset_v2.csv                                              # Raw Dataset
+├── E-Commerce_Customer_Behavior_Analysis_Cleaned.xlsx                                      # Cleaned Dataset
+├── E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
+├── RFM Analysis: Insights into E-Commerce Customer Behavior & Sales Analysis.pdf           # Powerpoint Slides
+├── RFM_Analysis_Tableau.twbx                                                               # Tableau Dashboard
+└── README.md                                                                               # This file
 ```
 
 ##  **Deskripsi Dataset**
@@ -90,6 +83,9 @@ Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pa
 - Menghasilkan insight untuk meningkatkan retensi pelanggan, loyalitas, dan efisiensi pemasaran.
 
 - Memberikan rekomendasi strategis untuk setiap segmen pelanggan.
+
+## **Publication**
+[Tableau Public](https://public.tableau.com/views/RFM_Analysis_Tableau/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
