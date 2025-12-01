@@ -24,8 +24,8 @@ Stakeholders: Marketing Department of E-Commerce Company in Turkey
 RFM-Portfolio-Modul-2/
 ├── main.py                                                                                 # Main program entry point
 ├── ecommerce_customer_behavior_dataset_v2.csv                                              # Raw Dataset
-├── E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
 ├── E-Commerce_Customer_Behavior_Analysis_Cleaned.xlsx                                      # Cleaned Data
+├── E-Commerce_Customer_Behavior_Analysis.xlsx                                              # Dataset Analysis
 ├── RFM Analysis: Insights into E-Commerce Customer Behavior & Sales Analysis.pdf           # Powerpoint Slides
 ├── tableau.twbx                                                                            # Tableau Dashboard
 └── README.md                                                                               # This file
@@ -79,4 +79,5 @@ Dataset ini berisi 17.049 baris dan 18 kolom yang merepresentasikan transaksi pa
 - Melakukan scoring RFM untuk mengidentifikasi segmen nilai pelanggan.
 - Menganalisis tren penjualan, kategori produk terpopuler, dan demografi pelanggan.
 - Menghasilkan insight untuk meningkatkan retensi pelanggan, loyalitas, dan efisiensi pemasaran.
+
 - Memberikan rekomendasi strategis untuk setiap segmen pelanggan.
